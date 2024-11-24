@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6a3b97b1-b5d5-4c5c-b551-d214ef340eff)# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
+# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
 
 **팀 구성**
 - 20221047 김윤희 
@@ -45,7 +45,7 @@
   
 ## Conclusion
   - 계층적 디텍션 : 
-![image](https://github.com/user-attachments/assets/71f6d926-4b00-41c1-b6d6-6390610be6ed)
+![image](https://github.com/user-attachments/assets/6a3b97b1-b5d5-4c5c-b551-d214ef340eff)
 
   - 방향지시등 ON-OFF 알고리즘 :
 ![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
