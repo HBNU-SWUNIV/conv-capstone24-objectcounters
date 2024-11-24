@@ -24,12 +24,10 @@
     - 계층적 디텍션
   
     - 방향지시등 ON-OFF 알고리즘
-![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
 
 
     - 차량 이동 방향 예측(옵티컬 플로우)
 ![image](https://github.com/user-attachments/assets/1f6136b7-21bd-4bdc-b11a-7eb25e28412e)
-![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
 
     
 ## Case Study
@@ -37,8 +35,11 @@
   
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
+  - 계층적 디텍션
+  - 방향지시등 ON-OFF 알고리즘
+![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
+  - 차량 이동 방향 예측(옵티컬 플로우)
+![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
   
 ## Project Outcome
 - ### 20XX 년 OO학술대회 
