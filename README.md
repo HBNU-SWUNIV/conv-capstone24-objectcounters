@@ -1,4 +1,4 @@
-# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
+![image](https://github.com/user-attachments/assets/6a3b97b1-b5d5-4c5c-b551-d214ef340eff)# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
 
 **팀 구성**
 - 20221047 김윤희 
@@ -20,7 +20,7 @@
 ## System Design
   - ### System Requirements
     
-    #### Base ----------------------------------------
+    Base ----------------------------------------
     - numpy>=1.18.5
     - opencv-python>=4.1.1
     - Pillow>=7.1.2
@@ -29,8 +29,7 @@
     - scipy>=1.4.1
     - torch>=1.7.0
     - torchvision>=0.8.1
-    #### ----------------------------------------------
-
+    ----------------------------------------------
 
   - ### System Design
 
@@ -55,10 +54,13 @@
   
 ## Conclusion
   - 계층적 디텍션
+![image](https://github.com/user-attachments/assets/71f6d926-4b00-41c1-b6d6-6390610be6ed)
   - 방향지시등 ON-OFF 알고리즘
 ![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
   - 차량 이동 방향 예측(옵티컬 플로우)
 ![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
+
+  - 전체결과
   
 ## Project Outcome
 - ### 2025년 한국로봇공학회 
