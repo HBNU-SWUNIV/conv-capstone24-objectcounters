@@ -24,7 +24,7 @@
 
     - 그룹화
     - 방향지시등 ON-OFF 알고리즘
-      ![image](https://github.com/user-attachments/assets/783d07a0-0f8f-43b0-b63b-74c48b5ca96c)
+![image](https://github.com/user-attachments/assets/783d07a0-0f8f-43b0-b63b-74c48b5ca96c)
 
     - 차량 이동 방향 예측
 
