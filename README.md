@@ -1,4 +1,4 @@
-# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
+![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
 
 **팀 구성**
 - 20221047 김윤희 
@@ -23,10 +23,14 @@
 ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
 
     - 그룹화
+  
     - 방향지시등 ON-OFF 알고리즘
 ![image](https://github.com/user-attachments/assets/783d07a0-0f8f-43b0-b63b-74c48b5ca96c)
 
     - 차량 이동 방향 예측
+![image](https://github.com/user-attachments/assets/1f6136b7-21bd-4bdc-b11a-7eb25e28412e)
+![Uploading image.png…]()
+
 
     
 ## Case Study
