@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
+# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
 
 **팀 구성**
 - 20221047 김윤희 
