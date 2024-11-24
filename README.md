@@ -22,7 +22,7 @@
   - ### System Requirements
 ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
 
-    - 그룹화
+    - 계층적 디텍션
   
     - 방향지시등 ON-OFF 알고리즘
 ![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
