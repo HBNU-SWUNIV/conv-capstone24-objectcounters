@@ -29,7 +29,7 @@
 
     - 차량 이동 방향 예측
 ![image](https://github.com/user-attachments/assets/1f6136b7-21bd-4bdc-b11a-7eb25e28412e)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/9cb5b3ba-430d-4ef6-9d4f-e5a86acbee72)
 
 
     
