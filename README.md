@@ -19,15 +19,34 @@
   
 ## System Design
   - ### System Requirements
+    
+    #### Base ----------------------------------------
+    numpy>=1.18.5
+    opencv-python>=4.1.1
+    Pillow>=7.1.2
+    PyYAML>=5.3.1
+    requests>=2.23.0
+    scipy>=1.4.1
+    torch>=1.7.0
+    torchvision>=0.8.1
+    #### ----------------------------------------------
+
+
+  - ### System Design
+
+    - 전체 순서도
 ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
 
-    - 계층적 디텍션
+    - 알고리즘 구현
+      
+      - 계층적 디텍션
   
-    - 방향지시등 ON-OFF 알고리즘
+      - 방향지시등 ON-OFF 알고리즘
 
 
-    - 차량 이동 방향 예측(옵티컬 플로우)
+      - 차량 이동 방향 예측(옵티컬 플로우)
 ![image](https://github.com/user-attachments/assets/1f6136b7-21bd-4bdc-b11a-7eb25e28412e)
+
 
     
 ## Case Study
@@ -42,5 +61,5 @@
 ![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ### 2025년 한국로봇공학회 
 
