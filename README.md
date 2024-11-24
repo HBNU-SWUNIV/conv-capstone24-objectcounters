@@ -21,6 +21,13 @@
 ## System Design
   - ### System Requirements
     ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
+
+    - 그룹화
+    - 방향지시등 ON-OFF 알고리즘
+      ![image](https://github.com/user-attachments/assets/783d07a0-0f8f-43b0-b63b-74c48b5ca96c)
+
+    - 차량 이동 방향 예측
+
     
 ## Case Study
   - ### Description
