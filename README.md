@@ -72,8 +72,8 @@
   
   - 계층적 디텍션 : 
     
-    ![image](https://github.com/user-attachments/assets/bccf914e-b4be-4e75-9ce0-4039f2175f4b)
-    
+    ![image](https://github.com/user-attachments/assets/01db8e69-9b0d-48e7-a960-54c3cff73075)
+
 
   - 방향지시등 ON-OFF 알고리즘 :
     ![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
