@@ -68,7 +68,7 @@
 ## Conclusion
   - 계층적 디텍션 : 
     
-![image](https://github.com/user-attachments/assets/fdce361e-ac9c-4cf2-9b71-32d3ddbc49e9)
+![image](https://github.com/user-attachments/assets/1cb1a545-47e9-4dd8-87c1-c8a86f41841c)
 
 
   - 방향지시등 ON-OFF 알고리즘 :
