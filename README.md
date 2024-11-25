@@ -54,7 +54,8 @@
     - Design
    
       ![image](https://github.com/user-attachments/assets/063dccd6-bae2-4158-add4-0ef60259a181)
-      ![image](https://github.com/user-attachments/assets/b55d8546-53b3-4a5c-9eb7-64fb9bddea35)
+      ![image](https://github.com/user-attachments/assets/f10e1d18-468b-499e-8b01-07477200c825)
+
       
       - 방향지시등이 켜졌을 때 :
       - 좌회전, 우회전 시 :
@@ -68,14 +69,15 @@
 ## Conclusion
   - 계층적 디텍션 : 
     
-![image](https://github.com/user-attachments/assets/1cb1a545-47e9-4dd8-87c1-c8a86f41841c)
+    ![image](https://github.com/user-attachments/assets/bccf914e-b4be-4e75-9ce0-4039f2175f4b)
+
 
 
   - 방향지시등 ON-OFF 알고리즘 :
-![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
+    ![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
 
   - 차량 이동 방향 예측(옵티컬 플로우) : 
-![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
+    ![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
 
 - 전체결과
 
