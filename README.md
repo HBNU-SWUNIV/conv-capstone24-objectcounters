@@ -81,6 +81,7 @@
     ![image](https://github.com/user-attachments/assets/44525876-880d-4278-93c7-5ddee0b745c0)
 
 - 전체결과
+![image](https://github.com/user-attachments/assets/9a64441f-7bdb-407e-a7be-b18da02e4d51)
 
   이 연구에서는 차량 방향 예측과 방향지시등 점등 감지 기능을 통합한 주행 보조 시스템을 설계하고 구현하였습니다. 본 시스템은 계층적 객체탐지를 통해 차량 방향 예측과 방향지시등 점등 여부를 분석하여 다양항 주행 환경과 조건에서도 운전자가 안정적이게 주행할 수 있도록한다.
 
