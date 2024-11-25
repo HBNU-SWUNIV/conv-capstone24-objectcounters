@@ -43,7 +43,8 @@
     
     - 시스템 동작 순서도
       
-    ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
+    <img width="539" alt="image" src="https://github.com/user-attachments/assets/5b434e4d-c8ac-4e92-897c-f9f0a0599960">
+
 
       계층적 디텍션을 통해 YOLO가 방향지시등을 0개, 1개, 2개로 디텍션할 경우로 Case를 나누어서 각자 다른 Task를 수행하도록 한다.
       1. 계층적 디테션
