@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/da4df870-62dc-4a71-8473-6718b1b2cce5)# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
+# 한밭대학교 인공지능소프트웨어학과 ObjectCounters팀
 
 **팀 구성**
 - 20221047 김윤희 
@@ -41,11 +41,11 @@
   - ### System Design
 
     - 시스템 동작 순서도
-![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
+      ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
 
     - Design
-![image](https://github.com/user-attachments/assets/063dccd6-bae2-4158-add4-0ef60259a181)
-![image](https://github.com/user-attachments/assets/b55d8546-53b3-4a5c-9eb7-64fb9bddea35)
+      ![image](https://github.com/user-attachments/assets/063dccd6-bae2-4158-add4-0ef60259a181)
+      ![image](https://github.com/user-attachments/assets/b55d8546-53b3-4a5c-9eb7-64fb9bddea35)
       - 방향지시등이 켜졌을 때 :
       - 좌회전, 우회전 시 :
       - defult : "속도를 유지하세요."
