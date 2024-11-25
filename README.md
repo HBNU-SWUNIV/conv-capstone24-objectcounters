@@ -57,7 +57,7 @@
 
       
       - 방향지시등이 켜졌을 때 : "(차 번호)의 (Car-L or Car-R)의 방향지시등이 켜졌습니다. 속도를 줄이세요"
-      - 좌회전, 우회전 시 : 
+      - 좌회전, 우회전 시 : ex) 차량이 우회전하고 있습니다. 속도를 줄이세요.
       - defult : "속도를 유지하세요."
  ----------------------------------------------
     
@@ -72,6 +72,7 @@
   - 계층적 디텍션 : 
     
     ![image](https://github.com/user-attachments/assets/bccf914e-b4be-4e75-9ce0-4039f2175f4b)
+    
 
   - 방향지시등 ON-OFF 알고리즘 :
     ![image](https://github.com/user-attachments/assets/43e31e6b-3b39-4ba2-814f-8176cadb509f)
