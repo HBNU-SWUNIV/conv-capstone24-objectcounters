@@ -66,7 +66,7 @@
 
   
 ## Conclusion
-  - 계층적 디텍션 :
+  - 계층적 디텍션 : 
     
 ![image](https://github.com/user-attachments/assets/6a3b97b1-b5d5-4c5c-b551-d214ef340eff)
 
