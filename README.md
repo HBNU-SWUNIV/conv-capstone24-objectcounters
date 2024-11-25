@@ -39,7 +39,9 @@
     ----------------------------------------------
 
   - ### System Design
+    
     - 시스템 동작 순서도
+      
     ![image](https://github.com/user-attachments/assets/17d0553f-0042-43e8-8518-0de9922e8559)
 
 
